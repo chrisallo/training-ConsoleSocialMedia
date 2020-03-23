@@ -1,7 +1,7 @@
 import User from './model/user';
 import Posting from './model/posting';
 
-const createDummy = () => {
+const test = () => {
   console.log('## console social media launched.');
 
   /// create simulation data
@@ -76,7 +76,7 @@ const createDummy = () => {
 }
 
 export {
-  createDummy,
+  test,
   User,
   Posting
 };
