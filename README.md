@@ -1,4 +1,4 @@
-# console-social-media
+# Training: ConsoleSocialMedia
 
 A training project for getting JavaScript language fundamentals.
 
